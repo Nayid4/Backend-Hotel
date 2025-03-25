@@ -1,0 +1,3 @@
+Productos (id;nombre; Precio)
+Servicios (id;nombre;Precio)
+Facturacion (id;fecha;Cliente;Servicios->Subtotal;Total)
